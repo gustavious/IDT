@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 
     $('.hero').bgswitcher({
-        images: ["img/bg/1.jpg","img/bg/2.jpg","img/bg/3.jpg","img/bg/4.jpg"],
+        images: ["img/bg/1.jpg","img/bg/2.jpg","img/bg/3.jpg","img/bg/4.jpg", "img/bg/5.jpg"],
         effect: "fade",
         interval: 3000
 });
