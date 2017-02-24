@@ -1,25 +1,23 @@
 $(document).ready(function() {
 
 
-    /*  Foundation Init    */
-    $(document).foundation();
 
 
 
     /*  carousel Init    */
     $('#carousel').carouFredSel({
-        width: '670',
+        width: '800',
         pagination: ".pagination",
         responsive: true,
         scroll: {
-            fx: 'fade',
+            fx: '200',
            duration         : 1000,
            pauseOnHover     : true
 
         },
         items: {
             visible: 1,
-            width: '670'
+            width: '800'
         },
         swipe: {
             onMouse: true,

@@ -1,0 +1,67 @@
+#valores p{
+    text-align: justify
+}
+
+
+.servicios {
+    width: 100%;
+    height: 800px;
+    background-image: url("../img/servicios/ban.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+
+}​,
+
+
+ .sig{
+    padding: 50px;
+ }
+
+ .map{
+
+     width: 100%;
+     height: 920px;
+     background-image: url("../img/nuestraEmpresa/map.png");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: 50% 50%;
+
+ }
+
+
+ .politicas{
+     width: 100%;
+     height: 500px;
+     background-image: url("../img/servicios/7.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: 50% 50%;
+ }
+
+
+
+.valores{
+    width: 100%;
+    height: 750px;
+    background-image: url("../img/servicios/6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+svg {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.footer-distributed{
+    width: 100%;
+    height: 600px;
+    background-image: url("../img/footer.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 0% 50%;
+
+
+}
