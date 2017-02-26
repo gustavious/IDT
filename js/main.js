@@ -28,12 +28,12 @@ $(document).ready(function() {
 
 
 
-
     /*    Mean navigation menu scroll to    */
-    $('#mean_nav ul li a').click(function(e) {
+    $('nav ul li a .scroll').click(function(e) {
         e.preventDefault();
         scrollTo($(this).attr('href'), 900, 'easeInOutCubic');
     });
+
 
 
 
