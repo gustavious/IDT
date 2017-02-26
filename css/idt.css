@@ -65,7 +65,7 @@
 
  .fill1 {
      width: 100%;
-     height: 750px;
+     height: 500px;
      background-image: url("../img/servicios/fill1.png");
      background-size: cover;
      background-repeat: no-repeat;
@@ -75,7 +75,7 @@
 
    .fill2 {
        width: 100%;
-       height: 750px;
+       height: 500px;
        background-image: url("../img/servicios/fill2.png");
        background-size: cover;
        background-repeat: no-repeat;
@@ -85,7 +85,7 @@
 
        .fill3 {
            width: 100%;
-           height: 750px;
+           height: 500px;
            background-image: url("../img/servicios/fill3.png");
            background-size: cover;
            background-repeat: no-repeat;
