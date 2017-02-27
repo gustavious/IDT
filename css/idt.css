@@ -144,11 +144,17 @@ svg {
 .footer-distributed {
     width: 100%;
     height: 600px;
-    background-image: url("../img/footer.svg");
+    background-image: url("../img/footer.png");
+    background-color: #800000;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 0% 50%;
 
+
+}
+
+footer{
+    background-image: url("../img/background.jpg");
 }
 
 * {
@@ -156,9 +162,11 @@ svg {
 }
 
 .slider {
-    width: 50%;
-    margin: 100px auto;
-}
+     width: 50%;
+     margin: 100px auto;
+ }
+
+
 
 .slick-slide {
     margin: 0px 20px;
