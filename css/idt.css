@@ -116,6 +116,39 @@
 
 }
 
+
+.ind1 {
+    width: 100%;
+    height: 900px;
+    background-image: url("../img/servicios/ind1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+
+}
+
+​,
+.ind2 {
+    width: 100%;
+    height: 900px;
+    background-image: url("../img/servicios/ind2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+
+}
+
+​,
+.ind3 {
+    width: 100%;
+    height: 900px;
+    background-image: url("../img/servicios/ind3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+
+}
+
 ​,
 svg {
     position: absolute;
